@@ -21,7 +21,7 @@
           
           3. Learning-based visual data analysis and quality improvement
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- ✨ Some of my highlight skills
+- ✨ Some of my highlight skills: 
 
           1. Apply C, C++, python and pytorch in medical image analysis
           
@@ -29,9 +29,11 @@
           
           3. Good at writing and speaking
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- ✨ Some of my research outcomes :
-          1. Have been applied to biologists' state-of-the-art study on pathology image based AD prognosis.
-          2. Have been applied to analysis football players' performance and select the better football players in certain team.
+- ✨ Some of my research outcomes:
+         
+         1. Have been applied to biologists' state-of-the-art study on pathology image based AD prognosis.
+          
+         2. Have been applied to analysis football players' performance and select the better football players in certain team.
 
               
 <!---
