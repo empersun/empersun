@@ -12,11 +12,8 @@
 empersun/empersun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- ✨ Some of my  current research projects include:
-          Computational medical imaging (e.g trusted diagnostic systems, deep pathological diagnosis, etc)
+- ✨ Some of my  current research interests include:
+          Computational medical imaging (e.g trusted diagnostic systems, image segmentation etc)
           AI for healthcare (e.g. EEG signal analysis, computational genomes for COVID-19, etc)
           Learning-based visual data analysis and quality improvement
-          Security in deep learning (e.g. adversarial attack/training)
-           Deep model compression for edge devices
-           
 --->
