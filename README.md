@@ -14,6 +14,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my  current research interests include:
+
 1.Computational medical imaging (e.g trusted diagnostic systems, image segmentation etc)
           
 2.AI for healthcare (e.g. EEG signal analysis, computational genomes for COVID-19, etc)
