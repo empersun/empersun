@@ -12,15 +12,23 @@
 
           2.Paper: Attention-Guided Neural Network and Lasso combined using in analysis Alzheimer’s Disease which accepted by Medical Physics, 2021
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- ✨ Some of my  current research interests include:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- ✨ Some of my current research interests include:
 
           1.Computational medical imaging (e.g trusted diagnostic systems, image segmentation etc)
           
           2.AI for healthcare (e.g. EEG signal analysis, computational genomes for COVID-19, etc)
           
           3.Learning-based visual data analysis and quality improvement
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- ✨ Some of my highlight skills
+
+          1.Apply C, C++, python and pytorch in medical image analysis
           
+          2.Apply java, javascript and html to develop software
+          
+          3.Good at writing and speaking
+              
 <!---
 empersun/empersun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
