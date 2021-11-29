@@ -28,6 +28,10 @@
           2.Apply java, javascript and html to develop software
           
           3.Good at writing and speaking
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- ✨ Some of my research outcomes have been applied to biologists' state-of-the-art study on pathology image based AD prognosis.
+- ✨ Some of my research outcomes have been applied to analysis football players' performance and select the better football players in certain team.
+
               
 <!---
 empersun/empersun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
