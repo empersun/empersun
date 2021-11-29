@@ -8,18 +8,18 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my current paper:
 
-1.Paper: Analysis and Optimization to the roster of Huskies, which published in ICAIIS, 2021
+          1.Paper: Analysis and Optimization to the roster of Huskies, which published in ICAIIS, 2021
 
-2.Paper: Attention-Guided Neural Network and Lasso combined using in analysis Alzheimer’s Disease which accepted by Medical Physics, 2021
+          2.Paper: Attention-Guided Neural Network and Lasso combined using in analysis Alzheimer’s Disease which accepted by Medical Physics, 2021
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my  current research interests include:
 
-1.Computational medical imaging (e.g trusted diagnostic systems, image segmentation etc)
+          1.Computational medical imaging (e.g trusted diagnostic systems, image segmentation etc)
           
-2.AI for healthcare (e.g. EEG signal analysis, computational genomes for COVID-19, etc)
+          2.AI for healthcare (e.g. EEG signal analysis, computational genomes for COVID-19, etc)
           
-3.Learning-based visual data analysis and quality improvement
+          3.Learning-based visual data analysis and quality improvement
           
 <!---
 empersun/empersun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
