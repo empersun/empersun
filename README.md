@@ -16,9 +16,11 @@
 
           1. Computational medical imaging (e.g trusted diagnostic systems, image segmentation etc)
           
-          2. AI for healthcare (e.g. EEG signal analysis, computational genomes for COVID-19, etc)
+          2. AI for healthcare (e.g. EEG signal analysis)
           
           3. Learning-based visual data analysis and quality improvement
+
+          4. Developed software for healthcare 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my highlight skills: 
 
