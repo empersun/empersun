@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunwei Sun
 - 📰 I got my B.S at Beijing University of Technology, in 2021
-- 👀 I’m currently looking for a PhD degree in Medical image analysis and Computer-aided diagnosis
+- 👀 I’m going to join Mcgill University at January 2023, with supervising by Dr. Sun (Shangpeng Sun), aim to get my Master degree.
 - 💞️ I’m working in Haige Communications Group Incorporated Company, Guangzhou, CHN, collaborating on some of my colleague, focusing on software development. 
 - 🎵 I like listen rock and rap in my freetime, I believe I'm crazy in The Bosshoss.
 - 📫 How to reach me, please send e-mail to: empersun@outlook.com.
