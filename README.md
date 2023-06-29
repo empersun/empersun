@@ -19,7 +19,9 @@
           
             3. Learning-based visual data analysis and quality improvement
 
-            4. Developed software for healthcare 
+            4. Developed software for healthcare
+
+            5. UAV images and Machine Learning to tackle challenging in-field problems  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my highlight skills: 
      
@@ -28,6 +30,8 @@
             2. Apply java, javascript and html to develop software
 
             3. Good at writing and speaking
+
+            4. Skiing
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my research outcomes:
             1. Have been applied to biologists' state-of-the-art study on pathology image based AD prognosis.
