@@ -1,37 +1,37 @@
 - 👋 Hi, I’m Kunwei Sun
 - 📰 I got my B.S at Beijing University of Technology, in 2021
 - 👀 I’m going to join Mcgill University at January 2023
-- 🌱 Contract me for more details about my work.
+- 🌱 Contact me for more details about my work.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my current paper:
 
-          1.Paper: Analysis and Optimization to the roster of Huskies, which published in ICAIIS, 2021
+            1.Paper: Analysis and Optimization to the roster of Huskies, which published in ICAIIS, 2021
 
-          2.Paper: Attention-Guided Neural Network and Lasso combined using in analysis Alzheimer’s Disease which accepted by Medical Physics, 2021
+            2.Paper: Attention-Guided Neural Network and Lasso combined using in analysis Alzheimer’s Disease which accepted by Medical Physics, 2021
+
+            3.Paper:"A Yolo v5-based semantic segmentation model for row detecting" have been accepted by CSBE, 2023
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my current research interests include:
 
-          1. Computational medical imaging (e.g trusted diagnostic systems, image segmentation etc)
+            1. Computational medical imaging (e.g trusted diagnostic systems, image segmentation etc)
           
-          2. AI for healthcare (e.g. EEG signal analysis)
+            2. AI for healthcare (e.g. EEG signal analysis)
           
-          3. Learning-based visual data analysis and quality improvement
+            3. Learning-based visual data analysis and quality improvement
 
-          4. Developed software for healthcare 
+            4. Developed software for healthcare 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my highlight skills: 
+            1. Apply C, C++, python and pytorch in medical image analysis
 
-          1. Apply C, C++, python and pytorch in medical image analysis
-          
-          2. Apply java, javascript and html to develop software
-          
-          3. Good at writing and speaking
+            2. Apply java, javascript and html to develop software
+
+            3. Good at writing and speaking
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my research outcomes:
-         
-         1. Have been applied to biologists' state-of-the-art study on pathology image based AD prognosis.
-          
-         2. Have been applied to analysis football players' performance and select the better football players in certain team.
+            1. Have been applied to biologists' state-of-the-art study on pathology image based AD prognosis.
+
+            2. Have been applied to analysis football players' performance and select the better football players in certain team.
 
               
 <!---
