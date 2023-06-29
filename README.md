@@ -22,6 +22,7 @@
             4. Developed software for healthcare 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my highlight skills: 
+     
             1. Apply C, C++, python and pytorch in medical image analysis
 
             2. Apply java, javascript and html to develop software
