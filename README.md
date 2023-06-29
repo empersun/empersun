@@ -34,6 +34,7 @@
             4. Skiing
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my research outcomes:
+
             1. Have been applied to biologists' state-of-the-art study on pathology image based AD prognosis.
 
             2. Have been applied to analysis football players' performance and select the better football players in certain team.
