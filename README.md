@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kunwei Sun
+- 👋 Hi, I’m Ricky Sun
 - 📰 I got my B.S at Beijing University of Technology, in 2021
 - 👀 I joined Mcgill University in 2023
 - 🌱 Contact me for more details about my work.
