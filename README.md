@@ -5,11 +5,15 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my current paper:
 
-            1.Paper: Analysis and Optimization to the roster of Huskies, which published in ICAIIS, 2021
+            1. Paper: Analysis and Optimization to the roster of Huskies, which published in ICAIIS, 2021
 
-            2.Paper: Attention-Guided Neural Network and Lasso combined using in analysis Alzheimer’s Disease which accepted by Medical Physics, 2021
+            2. Paper: Attention-Guided Neural Network and Lasso combined using in analysis Alzheimer’s Disease which accepted by Medical Physics, 2021
 
-            3.Paper:"A Yolo v5-based semantic segmentation model for row detecting" have been accepted by CSBE, 2023
+            3. Paper:"A Yolo v5-based semantic segmentation model for row detecting" have been accepted by CSBE, 2023
+
+            4. Paper:"Fourier Transformed Graph Neural Network for TBI recover predict" Neuroimage, 2025
+
+            5. Paper:"Rapid Assessment of Stomata Density using Digital Microscopy and Machine Learning Approach", The Plant Phenome Journal, 2025
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ✨ Some of my current research interests include:
 
